@@ -11,29 +11,3 @@ h1 {
   /* find the text in the h1, and align it center */
   text-align: center;
 }
-
-/* when anything has a class of 'slides' */
-/* aka <div class='slides'> ... </div>*/
-.slides {
-  /* do this stuff from the css language */
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  /* colors are defined by a Hex Code */
-  /* this is black #000000 */
-  /* this is white #ffffff */
-  /* this is white #0000ff */
-  background-color: #fefefe;
-}
-
-/* when anything has a class of 'a-slide' */
-.a-slide {
-  display: none;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;  
-}
