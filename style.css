@@ -27,3 +27,12 @@ h1 {
   /* this is white #0000ff */
   background-color: #fefefe;
 }
+
+/* when anything has a class of 'a-slide' */
+.a-slide {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;  
+}
