@@ -7,5 +7,7 @@ var foo = function () {
   //it does this stuff
   
   //create a new thing
-  console.log(document)
+  // that equals all the nodes that match this selector in the document
+  var slides = document.querySelectorAll('.a-slide')
+  console.log(slides)
 } 
