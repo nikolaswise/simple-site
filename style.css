@@ -30,6 +30,7 @@ h1 {
 
 /* when anything has a class of 'a-slide' */
 .a-slide {
+  display: none;
   position: absolute;
   top: 0;
   bottom: 0;
