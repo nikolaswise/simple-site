@@ -11,3 +11,5 @@ var foo = function () {
   var slides = document.querySelectorAll('.a-slide')
   console.log(slides)
 } 
+
+foo();
